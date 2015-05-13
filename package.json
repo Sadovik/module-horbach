@@ -1,0 +1,12 @@
+{
+  "name": "module-horbach",
+  "version": "0.0.2",
+  "main": "./app.js",
+  "devDependencies": {
+    "colors": "^1.1.0"
+  },
+  "dependencies": {
+    "colors": "^1.1.0",
+    "module-horbach": "^0.0.1"
+  }
+}
